@@ -1,1 +1,1 @@
-this a token readme because i hate writing readme in the commandline
+The controls are a simple AWSD movement. The goal of the game is to collect all the points (green circles) before heading to the goal(golden platform) and winning. You will lose them game if the enemy hits you enough times (0 hp), run out of time or you fall off the edge and hit the Killzone. The Cyan cylinders will speed the player up for a period of time and the Orange rectangles will slowdown the enemy 
